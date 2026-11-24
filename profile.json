@@ -1,8 +1,8 @@
 {
   "version": 1,
   "login": "HS1HYDRAX7",
-  "seed": "#4285F4",
-  "seedFromAvatar": true,
+  "seed": "#E5484D",
+  "seedFromAvatar": false,
   "scheme": "tonalSpot",
   "motion": true,
   "iconFill": true,
