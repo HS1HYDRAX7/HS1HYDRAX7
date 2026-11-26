@@ -1,5 +1,5 @@
 {
- "key": "e8486f0",
+ "key": "c250948d",
  "stars": 0,
  "contributions": 5,
  "repos": 1,
@@ -99,15 +99,19 @@
    {
     "c": 0,
     "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
     "today": true
    },
-   null,
    null,
    null
   ]
  ],
  "streak": {
-  "current": 2,
+  "current": 0,
   "longest": 2
  },
  "pins": [],
